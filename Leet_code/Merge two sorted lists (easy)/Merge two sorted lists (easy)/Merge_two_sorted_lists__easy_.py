@@ -1,4 +1,4 @@
-"""def mergeTwoLists( list1, list2):
+"""def mergeTwoLists( list1, list2): #First Solution 
     if list1 and list2 == []:
         return []
     l3=[]
@@ -8,8 +8,8 @@
             if y==i :
                 l3.append(list2[y])
     return l3 
-print(mergeTwoLists([1,2,4],[1,3,4]))"""
-class ListNode(object):
+print(mergeTwoLists([1,2,4],[1,3,4]))""" 
+class ListNode(object): #Second solution
      def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
