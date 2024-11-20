@@ -21,11 +21,6 @@
 
 # Algorithme de minimisation : algo qui minimise les erreurs  (donc minimise le cout)
 
-#---------------------------------
-# Regression linéaire 
-#voir notes téléphone   
-
-#----------------
 
 
 
